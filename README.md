@@ -1,2 +1,1 @@
-# dathost-demo-bot
-# dathost-demo-bot
+# DatHost demo discord bot.
